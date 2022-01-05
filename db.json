@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "product_code": "3",
+      "product_name": "e",
+      "price": 4,
+      "quantity": 452,
+      "description": "r",
+      "id": 1
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
